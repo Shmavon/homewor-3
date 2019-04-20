@@ -1,0 +1,90 @@
+body{
+    background-color:white;
+    margin: 0;
+}
+
+li{
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 80px;
+    vertical-align: middle;
+    margin-right: 20px;
+    border:transparent;
+    margin: 5px;
+
+}
+
+#d1{
+    margin: 0px;
+    padding: 1px;
+}
+
+#d2{
+    background-image: url("imagis/nkar.jpeg");
+    background-color: #F0F2F8;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    min-width: 100%;
+    min-height: 100%;
+    background-size: cover;
+    margin: 0;
+    padding: 50px;
+}
+
+#img{
+    width: 150px;
+    height: 50px;  
+    vertical-align: middle;
+    display: inline-block;
+    padding: 10px;
+}
+ 
+ul,#img, li{
+    display: inline-block;
+}
+
+li{
+    margin: 10px;
+}
+
+#Explore{
+    background-color:white;
+    color: black;
+    display: block;
+    width: 150px;
+    text-align: center;
+    text-decoration: none;
+    padding: 20px 10px;
+    margin-right: 20px;    
+}
+
+a{
+    color: black;
+    font-size: 15px;
+    display: block;
+}
+
+#a-1{
+    text-decoration:none;
+    display: block;
+}
+
+#d3{
+    background-color: #F0F2F8;
+    margin: 0 autoS;
+    padding: 20px;
+    border: currentColor;
+
+}
+
+h1{
+    color: #F0F2F8;
+    font-size: 50px;
+}
+
+#d1, div{
+    width: 900px;
+    margin: 0 auto;
+}
