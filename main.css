@@ -75,7 +75,8 @@ a{
     background-color: #F0F2F8;
     margin: 0 autoS;
     padding: 20px;
-    border: currentColor;
+    border: 1px solid;
+    box-shadow: 5px 10px 10px black;
 
 }
 
